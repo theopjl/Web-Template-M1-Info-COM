@@ -1,4 +1,4 @@
-# Web Template — M1 Communication
+# Web Template — Master Design de Communication, Innovation Médiation Numérique 1
 
 Template statique de départ pour les projets web M1 Communication.
 Stack : HTML · Tailwind CSS (CDN) · JS vanilla. Aucune installation requise.
