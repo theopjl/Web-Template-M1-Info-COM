@@ -5,11 +5,9 @@ Stack : HTML · Tailwind CSS (CDN) · JS vanilla. Aucune installation requise.
 
 ## Ouvrir le site localement
 
-**Option 1 — VS Code (recommandé) :**
+**VS Code & Live Server extension :**
 Installez l'extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), faites un clic droit sur `index.html` → *Open with Live Server*.
 
-**Option 2 — Navigateur directement :**
-Double-cliquez sur `index.html`. Le site s'ouvre dans votre navigateur (certaines fonctionnalités JS peuvent nécessiter un serveur local).
 
 ## Structure des fichiers
 
