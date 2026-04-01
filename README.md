@@ -17,6 +17,7 @@ Installez l'extension [Live Server](https://marketplace.visualstudio.com/items?i
 ├── specs.md                # Document maître à compléter avant de solliciter l'agent IA
 ├── assets/
 │   ├── css/styles.css      # Surcharges CSS minimales
+│   ├── img/                # Images du projet (à déposer ici)
 │   └── js/main.js          # JS optionnel (commenté)
 └── README.md               # Ce fichier
 ```
